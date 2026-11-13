@@ -1,8 +1,11 @@
 # Estudo — Copa da API Finanças
 
-**Disciplina:** Desenvolvimento Web Back-end
-**Aluno:** _Nathan Victor de Oliveira Costa_
-**Equipe no Projeto 2:** _João Pedro Aleksandrov Lorenzetti e Eduardo de Oliveira Aguiar_
+**Disciplina:** Desenvolvimento Web Back-end (Node.js)
+
+**Aluno:** Nathan Victor de Oliveira Costa
+
+**Equipe no Projeto 2:** João Pedro Aleksandrov Lorenzetti e Eduardo de Oliveira Aguiar
+
 **Data:** 13/11/2026
 
 Registro da atividade de estudo do roteiro da Copa da API Finanças (Projeto 2 — API de Controle Financeiro). Abaixo estão a resolução dos 6 treinos e o raciocínio de cada um.
